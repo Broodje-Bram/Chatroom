@@ -1,0 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background: url("img/400680.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 20px;
+}
